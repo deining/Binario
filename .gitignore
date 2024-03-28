@@ -17,3 +17,6 @@ Thumbs.db
 .AppleDouble
 .LSOverride
 Desktop.ini
+
+# Hugo
+.hugo_build.lock
